@@ -51,12 +51,14 @@ I’m a curious **Python developer** who loves solving problems with code.
 - **[Aim Trainer Project](https://github.com/swanandjoshi30/Aim_Trainer_Project)**  
    🎯 Fun Python project to improve aim skills  
 
-
-
 ---
+
 ## 🧩 LeetCode Stats
 I regularly solve coding challenges on **LeetCode**.  
-👉 Check out my profile here: [LeetCode Profile](https://leetcode.com/Swanand_Joshi)  
+👉 Check out my profile here: [LeetCode Profile](https://leetcode.com/Swanand_Joshi)
+
+# My LeetCode Profile
+[![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Swanand_Joshi)](https://leetcode.com/Swanand_Joshi)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Swanand_Joshi?theme=dark&font=Source%20Code%20Pro&ext=contest)
 
