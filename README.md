@@ -12,10 +12,11 @@
 
 <!-- Visitor Counter with Custom Styling -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swanandjoshi30&label=Profile%20Views&color=00ff41&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/swanandjoshi30?label=Followers&style=for-the-badge&color=ff0080&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Hiring%20Ready-00ff41?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=swanandjoshi30&label=PROFILE+VIEWS&color=0aff99&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/swanandjoshi30?label=FOLLOWERS&style=for-the-badge&color=ff2d95" />
+  <img src="https://img.shields.io/badge/STATUS-HIRING%20READY-00ff41?style=for-the-badge" />
 </p>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -156,7 +157,7 @@ class SwanandJoshi:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100px"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGt2ZXpnZDJkYjl3OTRybjRycDIzNW0wM3dlenVsbDgzYTJtbHp0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ZDDyAaAA82ywDiyKs/giphy.gif" width="100px"/>
 
 <br/><br/>
 
@@ -209,7 +210,7 @@ Navigation: Google, YouTube
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100px"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnByZDBrd21la3dwYWsyNnh4djh4ZjU2eHJrM3VzbnlvZDl0dGdueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width="100px"/>
 
 <br/><br/>
 
@@ -271,22 +272,22 @@ History: 100+ events
 
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30px"/> Languages & Technologies
-
-<br/>
+### 🧠 Languages & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30px"/> Frameworks & Libraries
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🧩 Frameworks & Libraries
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30px"/> Cloud & DevOps
 
@@ -295,18 +296,20 @@ History: 100+ events
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="30px"/> Databases & Tools
+### 🗄️ Databases & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30px"/> Core Competencies
 
-![OOP](https://img.shields.io/badge/OOP-Concepts-red?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-Learning-orange?style=for-the-badge)
+### ⚙️ Core Competencies
+
+![OOP](https://img.shields.io/badge/OOP-Strong-blue?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Practicing-orange?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-Proficient-yellow?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-Scrum-6DB33F?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-Basics-lightgrey?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-Scrum-green?style=for-the-badge)
+
 
 </div>
 
@@ -318,24 +321,16 @@ History: 100+ events
 
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30px"/> My Coding Journey
+
 
 <br/>
 
-<table>
-<tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swanandjoshi30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&include_all_commits=true" width="100%"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanandjoshi30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&langs_count=8" width="100%"/>
 
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -343,7 +338,7 @@ History: 100+ events
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=swanandjoshi30&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
+
 
 </div>
 
