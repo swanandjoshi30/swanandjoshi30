@@ -398,13 +398,26 @@ History: 100+ events
 <tr>
 <td width="25%" align="center">
 
-**🎓 B.E. Computer Engineering**
+**📖 Final Year**  
+*Computer Engineering*
 
 **MES Wadia College**  
 Pune
 
-**2024-25 (3rd Year)**  
-🌟 **CGPA: 8.95/10**
+**2025-26**  
+⭐ **SGPA 1: 9.25/10**
+
+</td>
+<td width="25%" align="center">
+
+**📖 Third Year**  
+*Computer Engineering*
+
+**MES Wadia College**  
+Pune
+
+**2023-24**  
+⭐ **CGPA: 8.95/10**
 
 </td>
 <td width="25%" align="center">
@@ -478,7 +491,7 @@ Complete Python Development
 <img src="https://cdn-icons-png.flaticon.com/128/2920/2920277.png" width="80px"/>
 
 **☁️ Oracle Cloud Infrastructure**  
-AI Foundations Associate  
+Oracle Cloud Infrastructure 2025 Foundations Associate
 ✅ 2025 Certified
 
 </td>
