@@ -823,7 +823,7 @@ and create value.
 
 ---
 
-<sub>**Crafted with 💙 and ⚡ by Swanand Joshi | Ready to Build Something Interesting**</sub>
+<sub>**Crafted with 🧡 and ⚡ by Swanand Joshi | Ready to Build Something Interesting**</sub>
 
 <br/>
 
