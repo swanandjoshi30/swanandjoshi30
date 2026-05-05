@@ -12,7 +12,7 @@
 
 <!-- Visitor Counter with Custom Styling -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swanandjoshi30&label=PROFILE+VIEWS&color=0aff99&style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=swanandjoshi30&left_color=black&right_color=0aff99&left_text=UNIQUE%20VISITORS" />
   <img src="https://img.shields.io/github/followers/swanandjoshi30?label=FOLLOWERS&style=for-the-badge&color=ff2d95" />
   <img src="https://img.shields.io/badge/STATUS-HIRING%20READY-00ff41?style=for-the-badge" />
 </p>
