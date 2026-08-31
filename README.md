@@ -401,35 +401,11 @@ History: 100+ events
 **📖 Final Year**  
 *Computer Engineering*
 
-**MES Wadia College**  
+**MES Wadia College of Engineering**  
 Pune
 
-**2025-26**  
-⭐ **SGPA 1: 9.25/10**
-
-</td>
-<td width="25%" align="center">
-
-**📖 Third Year**  
-*Computer Engineering*
-
-**MES Wadia College**  
-Pune
-
-**2023-24**  
-⭐ **CGPA: 8.95/10**
-
-</td>
-<td width="25%" align="center">
-
-**📖 Second Year**  
-*Computer Engineering*
-
-**MES Wadia College**  
-Pune
-
-**2023-24**  
-⭐ **CGPA: 8.23/10**
+**2023-26**  
+⭐ **CGPA : 8.84/10**
 
 </td>
 <td width="25%" align="center">
