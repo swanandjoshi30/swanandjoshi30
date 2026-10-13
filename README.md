@@ -37,8 +37,8 @@ I'm **Swanand Joshi** - a **Computer Science student** with an **8.50 CGPA** at 
 class SwanandJoshi:
     def __init__(self):
         self.location = "📍 Pune, India"
-        self.education = "🎓 B.E. Computer Science"
-        self.current_year = "Final Year | CGPA: 8.50/10"
+        self.education = "🎓 B.E. Computer Engineering"
+        self.current_year = "Graduate | CGPA: 8.8/10"
         self.mindset = "🚀 Build → Learn → Iterate → Improve"
         
     @property
